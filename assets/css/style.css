@@ -51,6 +51,7 @@ p {
     font-size: 16px;
 }
 
+/* Sets the ID selector ".hero" (backgroud image) */
 .hero {
     height: 100%;
     width: 100%;
